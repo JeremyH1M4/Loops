@@ -13,7 +13,7 @@ while(M1[i]) {
 };
 
 
-for(let j = 1; j <= 100; j = j+2){
+for(let j = 1; j <= 10; j = j+2){
     console.log(j);
 };
 
